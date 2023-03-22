@@ -36,4 +36,4 @@ For further information:
 
 # Screenshot
 
-![screenshot of deployed pwa-text-editor](./pwa-text-editor-wgt.herokuapp.com_.png)
+![Screenshot of deployed application](./pwa-text-editor-screenshot.png)
